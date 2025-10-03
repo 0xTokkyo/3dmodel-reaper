@@ -1,8 +1,8 @@
 # Chemin du dossier contenant les modèles 3D en format GLTF
-$modeleGLTFDossier = "C:\Users\alexi\Desktop\script\3dModelExtractor\models"
+$modeleGLTFDossier = "C:\Users\alex\Desktop\script\3dModelExtractor\models"
 
 # Chemin de sortie du dossier pour les modèles 3D en format GLTF
-$modeleGLTFDossierFinal = "C:\Users\alexi\Desktop\script\3dModelExtractor\extract"
+$modeleGLTFDossierFinal = "C:\Users\alex\Desktop\script\3dModelExtractor\extract"
 
 # Chemin vers le fichier Blender exécutable
 $blenderExecutable = "C:\Program Files\Blender Foundation\Blender 4.0\blender.exe"
